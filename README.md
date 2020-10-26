@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Numbers in NLP.
+- 🌱 I’m currently learning D3.js
+- 👯 I’m looking to collaborate on Persistent Memory (see [Lample et al. 2019](http://papers.nips.cc/paper/9061-large-memory-layers-with-product-keys.pdf) and [Gupta & Berant 2020](https://arxiv.org/abs/2006.03274))
+- 💬 Ask me about NLP, Academia, PhD, books, movies, Los Angeles, and India 🇮🇳
+- 📫 How to reach me: [avijit.thawani@gmail.com](mailto:avijit.thawani@gmail.com)
+- 🌐 Personal webpage: https://avi-jit.github.io/
+
 <!--
 **avi-jit/avi-jit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
