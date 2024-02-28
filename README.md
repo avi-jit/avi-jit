@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi I'm Avi 👋
 
-- 🔭 I have done extensive research on representing Numbers in NLP.
-- 👯 I’m looking to collaborate on Tokenization in NLP.
+- 🔭 I'm getting a PhD in Language Models, Natural Language Processing
+- 🛠 I'm a part-time thinker, full-time tinkerer. I love [building products](https://avi-jit.github.io/work).
 - 💬 Ask me about NLP, Academia, PhD, books, movies, Los Angeles, and India 🇮🇳
 - 📫 How to reach me: [avijit.thawani@gmail.com](mailto:avijit.thawani@gmail.com)
 - 🌐 Personal webpage: https://avi-jit.github.io/
