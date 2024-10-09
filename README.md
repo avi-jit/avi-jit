@@ -1,11 +1,9 @@
 ### Hi I'm Avi 👋
 
-- 🔭 I'm getting a PhD in Language Models, Natural Language Processing
+- 🔭 I have a PhD in Language Models, Natural Language Processing
 - 🛠 I'm a part-time thinker, full-time tinkerer. I love [building products](https://avi-jit.github.io/work).
-- 💬 Ask me about NLP, Academia, PhD, books, movies, Los Angeles, and India 🇮🇳
-- 📫 How to reach me: [avijit.thawani@gmail.com](mailto:avijit.thawani@gmail.com)
-- 🌐 Personal webpage: https://avi-jit.github.io/
-
+- 💬 Ask me about NLP, Academia, PhD, books, movies, California, and India 🇮🇳
+- 📫 How to reach me: [Email](mailto:avijit.thawani@gmail.com) or [Personal webpage](thawani.netlify.app)
 <!--
 **avi-jit/avi-jit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
